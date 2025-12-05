@@ -1,0 +1,4 @@
+langchain
+langchain_community
+langchain_ollama
+duckduckgo-search==5.3.1
