@@ -1,4 +1,4 @@
-🤖 Real-Time AI Assistant with Llama 3 & LangChain
+🤖 Real-Time AI Assistant with RAG & LangChain
 
 This project builds a local, real-time AI assistant capable of searching the internet to answer current questions. It leverages Ollama for local inference and DuckDuckGo for privacy-focused web searches, orchestrated by LangChain.
 
